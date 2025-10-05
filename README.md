@@ -1,7 +1,7 @@
 相信你也嫖了不少api吧,相信你也困惑哪些模型可用吧！
 ~~我也困惑~~
 所以我用gemini写了个小脚本，一键测试模型是否可用
-- 如果你懒得每次都运行python文件，可以尝试(.exe)[]文件哦
+- 如果你懒得每次都运行python文件，可以尝试[.exe](https://github.com/Venlacy/AI_checker/releases/download/v1.0.0/AI_test.exe)文件哦
 - 如果需要运行脚本，可能需要安装如下依赖
 ```
 pip install httpx rich
